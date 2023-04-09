@@ -1,2 +1,2 @@
-# Mi-primer-repositorio
-modulo 2 clase prepcourse
+como crear un repositorio y clonarlo desde git hab hasta mi escritorio
+
